@@ -34,12 +34,6 @@ Hey there! 👋 I'm **Abdulrahman Hameed**, and you've just stumbled upon my lit
     ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
     ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
-- **Design Tools:**
-  - ![Proteus](https://img.shields.io/badge/-Proteus-000080?style=flat-square&logo=proteus&logoColor=white)
-    ![Multisim](https://img.shields.io/badge/-Multisim-FF6600?style=flat-square&logo=multisim&logoColor=white)
-    ![PCB Layout](https://img.shields.io/badge/-PCB_Layout-8DB600?style=flat-square&logo=autodesk&logoColor=white)
-    ![Cadence](https://img.shields.io/badge/-Cadence-FF0000?style=flat-square&logo=cadence&logoColor=white)
-    
 ## 🎯 What You'll Find Here
 
 This repository is a blend of my technical journey and creative explorations. Expect to see:
@@ -53,9 +47,7 @@ This repository is a blend of my technical journey and creative explorations. Ex
 
 I'm always excited to meet fellow tech enthusiasts, or anyone with a spark of curiosity. Let's make something amazing together!
 
-  <a href="https://www.linkedin.com/in/reem-mohy-692b22226" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="reem2002mohy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdulrahman-hameed/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Hameed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="Abdulrahmanhameed550@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 Thanks for stopping by! Dive in, explore, and Looking forward to connecting and creating! 🚀
-
-Happy Coding! 💻🎉
