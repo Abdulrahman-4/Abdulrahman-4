@@ -87,7 +87,13 @@ This repository is a blend of my technical journey and creative explorations. Ex
 
 I'm always excited to meet fellow tech enthusiasts, or anyone with a spark of curiosity. Let's make something amazing together!
 
-  <a href="https://www.linkedin.com/in/abdulrahman-hameed/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Hameed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="Abdulrahmanhameed550@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Gmail-FF4166?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdulrahman-hameed/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="mailto:abdulrahmanhameed550@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://www.facebook.com/abdulrhman.hameedd" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href="https://www.instagram.com/henryto_4" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="https://www.linkedin.com/in/abdulrahman-hameed/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+</div>
 
 Thanks for stopping by! Dive in, explore, and Looking forward to connecting and creating! 🚀
+###
